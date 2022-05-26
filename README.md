@@ -4,11 +4,10 @@
 Weather data for Hawaii using VS Code &amp; Jupyter Notebook
 
 ### Purpose
-Overview of the statistical analysis:
+An analysis of the weather in Hawaii for W. Avy, an investor for a potential Surf Shop. The plans for the surf shop are to be opened by a collegue and needs to propose a weather dataset to secure an investment. Since W. Avy has experience with Surf Shops in the past this Weather Dataset will play a key role in whether or not this investment will be a good choice for a year-round surf shop. The Weather Dataset will give insight to if weather conditions are sustainable all year round for surfers. It will predict busier seasons, slower seasons, or high travel time periods. The data provided will have to be accurate and concise in order to back the Surf Shops opening.
 
 
 
-The purpose of the analysis is well defined. 
 ## Results
 The Results for the first data delivery were the temperatures for June in Hawaii.
 
