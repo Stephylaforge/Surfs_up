@@ -22,9 +22,12 @@ The data was then pulled for the temperatues for the month of December. After re
 ## Summary
 After analyzing the two charts that contain the summary of statistics for both June and December you can now gather statements for W. Avy.
 Below are listed key differences between the Weather Statistics for June and December. 
-- The highest temperature June is 85F degrees and December is 85F degrees.
+- The highest temperature June is 85F degrees and December is 85F degrees. Since they are very similar the maximum temperature can assure that the Business will have a steady average temperature throughout the year. The Maximum temperature isn't a gurantee but an assesment based of the Data lists for June & December.
 - The lowest temperature for June is 64F degrees and December is 56F degrees. When comparing the difference is not large enough to determine that noone would be surfing in the month of December.  
   - Based off the lowest and highest you can see the highest temperatures can leverage some forecasts that December can also be close to as hot   as June temperatures. With a statstic like this you can gurantee there will a small-to medium size of days that will an above average hot or     below average cold.
-- To summarize the average tmeperautre for June () and December ()
+- To summarize the average tmeperautre for June (71F) and December (74F) can be a confirmation to the claims above that the average is one of the most important factors when considering the two season's temperatures. If there is an average this similar within 6 months apart you can gurantee Surfer's will still be surfing. Bedies unexpected weather conditions you can expect the average days throught the remaining 10 months to be equally as similar.
 
-## FI
+- Given this proof you can assure the W. Avy the investment would be a wise one. If needed you can run these lists with statistical summary for the remainder 10 months to further back these claims.
+
+## Final Claim
+Based on the two results and high attractions from travels the Weather Dataset can accuratley confirm that a year-round Surf Shop would be a beneifical business for investors and customers. 
